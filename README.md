@@ -29,7 +29,7 @@ To deploy and interact with this contract:
    - Mint new tokens using the `mint` function.
    - Burn tokens using the `burn` function.
    - Transfer tokens between addresses using the `transfer` function.
-   - 
+     
 ### Executing the program
 
 To run this program use an online Solidity IDE such as remix wesite : Remix website at https://remix.ethereum.org/.
