@@ -70,7 +70,7 @@ contract Reputation is ERC20, ERC20Burnable,Ownable {
 
 Compile the code, click on the "Solidity Compiler".The Compiler option should be  set to 0.8.4, and then run the code by clicking on the Compile avax3.sol button.
 
-After the code is compiled, click on the Deploy & Run Transactions tab. From the dropdown menu choose the "avax3" contract. finally click on the deploy button.
+After the code is compiled, click on the Deploy & Run Transactions tab. From the dropdown menu choose the "avax3" contract. Finally click on the deploy button.
 
 ## Authors
 
