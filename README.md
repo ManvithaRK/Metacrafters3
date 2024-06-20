@@ -30,11 +30,12 @@ To deploy and interact with this contract:
    - Burn tokens using the `burn` function.
    - Transfer tokens between addresses using the `transfer` function.
    - 
-### Executing program
+### Executing the program
 
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+To run this program use an online Solidity IDE such as remix wesite : Remix website at https://remix.ethereum.org/.
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., avax3.sol). Copy and paste the following code into the file:
+Next after you are on the Remix website, create a new file with a .sol extension (e.g., avax3.sol) and save it.
+In the file you created copy paste the below code:
 
 ```solidity
 //SPDX-License-Identifier:MIT
@@ -67,9 +68,9 @@ contract Reputation is ERC20, ERC20Burnable,Ownable {
 }
 ```
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile avax3.sol" button.
+Compile the code, click on the "Solidity Compiler".The Compiler option should be  set to 0.8.4, and then run the code by clicking on the Compile avax3.sol button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "avax3" contract from the dropdown menu, and then click on the "Deploy" button.
+After the code is compiled, click on the Deploy & Run Transactions tab. From the dropdown menu choose the "avax3" contract. finally click on the deploy button.
 
 ## Authors
 
